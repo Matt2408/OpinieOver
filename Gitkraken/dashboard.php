@@ -1,0 +1,12 @@
+<?php
+	include("check.php");	
+?>
+<?php
+	include('includes/dashboardheader.php');
+?>
+<?php
+	include('includes/paginacontent/dashboardpagecontent.php');
+?>
+<?php
+	include('includes/footer.php');
+?>
